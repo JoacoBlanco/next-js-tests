@@ -4,7 +4,7 @@ import "./styles.css";
 const page = () => {
   return (
     <div>
-        <h1>welcome to users page</h1>
+        <h1>Welcome to users page</h1>
         </div>
   )
 }
